@@ -1,0 +1,9 @@
+{
+  "hosting": {
+    "site": "clone-slack-thanhlam",
+    "public": "./build"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
